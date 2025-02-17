@@ -3,7 +3,7 @@
 <h2>📜 Test-Based Game Dev Projects:</h2>
 
 - <b>Python</b>
-  - [The Red Show - Adventure Game]([https://github.com/](https://github.com/Susheonnn/TheRedShow))
+  - [The Red Show - Adventure Game](https://github.com/Susheonnn/TheRedShow)
   - [Mrs. Corvus - Choose Your Own Adventure](https://github.com/)
   - [Hangman](https://github.com/)
 - <b>Java</b>
