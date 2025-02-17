@@ -1,11 +1,18 @@
 <h1>Hey, I'm Ian! <br/><a href="https://github.com/Susheonnn">Programmer & Dal Student</a>
 
-<h2>Game Dev Projects:</h2>
+<h2>📜 Test-Based Game Dev Projects:</h2>
 
-- <b>Name of Project</b>
-  - [Item 1](https://github.com/)
+- <b>Python</b>
+  - [The Red Show - Adventure Game](https://github.com/)
+  - [Mrs. Corvus - Choose Your Own Adventure](https://github.com/)
+  - [Hangman](https://github.com/)
+- <b>Java</b>
+  - [Card Games](https://github.com/)
+  - [Yahtzee](https://github.com/)
+- <b>C#</b>
+  - [WIP](https://github.com/)
 
-<h2> Projects:</h2>
+<h2>💻 Web Development:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
