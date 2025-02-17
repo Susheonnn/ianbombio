@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [The Red Show - Adventure Game](https://github.com/Susheonnn/TheRedShow)
-  - [Mrs. Corvus - Choose Your Own Adventure](https://github.com/)
+  - [Mrs. Corvus - Choose Your Own Adventure](https://github.com/Susheonnn/MrsCorvus)
   - [Hangman](https://github.com/)
 - <b>Java</b>
   - [Card Games](https://github.com/)
