@@ -1,6 +1,6 @@
 <h1>Hey, I'm Ian! <br/><a href="https://github.com/Susheonnn">Programmer & Dal Student</a>
 
-<h2>📜 Test-Based Game Dev Projects:</h2>
+<h2>📜 Text-Based Game Dev Projects:</h2>
 
 - <b>Python</b>
   - [The Red Show - Adventure Game](https://github.com/Susheonnn/TheRedShow)
